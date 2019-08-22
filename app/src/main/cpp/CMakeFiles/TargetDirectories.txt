@@ -1,0 +1,4 @@
+/home/anishak/android-ndk/tflite_delegate/app/src/main/cpp/CMakeFiles/rebuild_cache.dir
+/home/anishak/android-ndk/tflite_delegate/app/src/main/cpp/CMakeFiles/edit_cache.dir
+/home/anishak/android-ndk/tflite_delegate/app/src/main/cpp/CMakeFiles/native-lib.dir
+/home/anishak/android-ndk/tflite_delegate/app/src/main/cpp/CMakeFiles/libtensorflowLite.dir

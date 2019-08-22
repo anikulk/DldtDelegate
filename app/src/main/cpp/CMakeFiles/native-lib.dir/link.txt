@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -shared -Wl,-soname,libnative-lib.so -o libnative-lib.so CMakeFiles/native-lib.dir/native-lib.cpp.o -Wl,-rpath,/home/anishak/android-ndk/tflite_delegate/app/src/main/cpp liblibtensorflowLite.so 
